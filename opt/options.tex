@@ -1,0 +1,24 @@
+%% Options for beamer presentation using pandoc
+
+% Theme
+\usetheme[width=0cm]{Hannover}
+\usecolortheme[named=MidnightBlue]{structure}
+\usecolortheme{orchid}
+
+% Set packages
+\usepackage[T1]{fontenc} 
+\usepackage{tgadventor}
+
+%% Beamer options
+\makeatletter
+\setbeamertemplate{sidebar canvas left}{}
+\makeatother
+\beamertemplatenavigationsymbolsempty %remove navigation bars on the bottom
+\setbeamercolor{block body}{bg=white}
+\setbeamertemplate
+{frametitle}
+{
+  \begin{flushleft}
+        \textbf{\insertframetitle}
+  \end{flushleft}
+}
