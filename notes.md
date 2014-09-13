@@ -1,13 +1,11 @@
 <!-- To create a pdf, run command "pandoc infile.md -o outfile.pdf"-->
 # NOTES FROM FIRST MEETING
 
-All tutorials for Luke will occur in MSB rm 2394. I will be doing the
-midterm
-
 ## Tutorial 1:
 
 ### Advice for TA
 
+* Bring everyone all close together if it is a big classroom.
 * Structure the tutorial around going through the background and data
   and understanding it, then split up into groups and work through
   questions using the new understanding of the data
@@ -40,6 +38,13 @@ midterm
 * When marking, make sure to write down major issues students are
   dealing with in the exam/assignment, so that we can identify how to
   help them deal with it.
+* Focus on developing conceptual framework first, without the students
+  previous skills, knowledge, and other "baggage". For instance, those
+  from a clinical background need to forget about their background and
+  their knowledge for the initial entry into the assignment/test.
+  Then as the exam moves along, incorporate past knowledge.
+* Try to get the students to learn when to **not** use past knowledge
+  and when to draw upon it.
   
 ### What to tell students
 
@@ -47,9 +52,14 @@ midterm
   tell you
 * No need to include p-values, just indicate the direction and
   significance
-* Don't need knowledge of mechanisms, everything that you should need
-  to know we give you; the document is supposed to be a standalone
-  piece
+* Don't need detailed knowledge of mechanisms, everything that you
+  should need to know we give you; the document is supposed to be a
+  standalone piece.  Use only what is provided in the initial part of
+  the exam.  As you answer more questions, you can and should
+  incorporate more of your past knowledge
+* For all people, whether in public health or science or whatever, you
+  need to have a solid understanding of the mechanisms and to be able
+  to interpret them.
 * The purpose of this course is to help you go from taking statistical
   language and converting it into interpretation and application
 * You need to provide concrete answers (e.g. yes/no) to the questions, with
@@ -94,3 +104,6 @@ midterm
 	* i.e. to use the background information and the biology that has
        been outlined, and to include them into the answers
 	* Draw out study design, mention it is helpful for the students
+* Get students to come with the assignment already completed, have
+  them work with one or two other students, comparing answers.  Then
+  share with the class and discuss the answers with everyone.
