@@ -44,3 +44,13 @@ abstract: |
       * Interpretation: How to interpret, what does statistics mean in
         context of interpreting
       * Assimilation: Combine with previous knowledge
+
+# Thoughts on how tutorial went #
+
+* 2014-09-16: I thought the first tutorial went well. I felt like I
+  rambled a bit at the start but by the end I was better.  I also
+  mentioned some things regarding last year that probably weren't
+  important for this year.  I also was a bit disorganized with
+  assigning groups and assigning topics to groups.
+  - Thing to improve: Be more organized for future tutorials,
+    especially with assigning groups and topics.
