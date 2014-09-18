@@ -1,8 +1,16 @@
-% Practice Assignment
-% Tutorial 2 <!--"pandoc infile.md -t beamer -o outfile.pdf"-->
-% Sept. 24, 2013
+---
+title: Practice Assignment -- Tutorial 2
+date: 2014-09-23
+classoption: xcolor=dvipsnames
+output:
+    beamer_presentation:
+        slide_level: 2
+header-includes:
+    - \input{../opt/options.tex}
+    
+...
 
-# Study 1
+## Study 1 ##
 
 Six week old rats were fed standard chow for 7 days and then,
 following an overnight fast, were force fed either a low starch, long
@@ -14,12 +22,12 @@ either as sucrose or $\alpha$-methylglucoside, a non-metabolizable
 sugar. Following sacrifice, jejunal lactase mRNA levels were measured,
 and lactase activity.
 
-# Experimental Design
+## Experimental Design ##
 
 \centering
 \includegraphics[width=\textwidth, page=1]{fig/studyDesign}
 
-# Study 2
+## Study 2 ##
 
 Six week old rats were fed either the LCT diet, the MCT diet, or a
 high starch diet (HS) (70% of energy as starch) for 7 days. In order
@@ -29,24 +37,24 @@ sacrifice. The jejunum was then removed and the incorporation of the
 [$^3$H]-phenylalanine was measured by standard methods. Lactase activity
 and mRNA levels were also measured.
 
-# Experimental Design
+## Experimental Design ##
 
 \centering
 \includegraphics[width=\textwidth, page=2]{fig/studyDesign}
 
-# Figure 1 & 2: Study 1
+## Figure 1 & 2: Study 1 ##
 
 \centering
 \includegraphics[width=0.5\textwidth]{./fig/fig1.png}
 \hfill
 \includegraphics[width=0.5\textwidth]{./fig/fig2.png}
 
-# Figure 3: Study 2
+## Figure 3: Study 2 ##
 
 \centering
 \includegraphics[height=0.8\textheight]{./fig/fig3.png}
 
-# Table 1: Study 2
+## Table 1: Study 2 ##
 
 ----------------------------------------------------------------------------------
 Variable Measured         LCT                 MCT                 HS
@@ -61,7 +69,7 @@ lactase mRNA (\%)
 Table: Values not sharing a common superscript are significantly
 different, p<0.01.
 
-# Question 1a
+## Question 1a ##
 
 Q: Describe the effects of the diets in study 1 on lactase mRNA levels
 and lactase activity (2/20).
@@ -73,7 +81,7 @@ of jejunal lactase mRNA (fig 1) and lactase activity (fig 2) compared
 to the other three groups.  All other groups were not significantly
 different from each other.
 
-# Question 1b
+## Question 1b ##
 
 Q: Describe the effects of the diets in study 2 on lactase rate of
 synthesis, activity, and mRNA levels (3/20).
@@ -88,7 +96,7 @@ abundance of mRNA (table 1).  The MCT group had a signficantly greater
 lactase activity than the LCT group, but less than the HS group (table
 1).
 
-# Question 2
+## Question 2 ##
 
 Q: Discuss a comprehensive mechanism, supported by the data provided,
 which would explain the effects of the differing diets on lactase
@@ -108,7 +116,7 @@ Break it down:
   enzyme protein synthesis (fig 3) and activity (table 1), and mRNA
   abundance (table 1)
 
-# Question 2, con't
+## Question 2, con't ##
 
 * Chronic MCT diet (study 2) appears to increase lactase activity
   (table 1), though not as much as HS
@@ -121,7 +129,7 @@ Break it down:
 
 * While chronic MCT has a post-translational effect on lactase
 
-# Question 2, con't
+## Question 2, con't ##
 
 E.g. A: Lactase mRNA expression and enzyme activity are regulated
 acutely by metabolizable sugar (sucrose).  Chronic intake of
