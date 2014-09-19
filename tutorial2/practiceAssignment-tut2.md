@@ -10,6 +10,18 @@ header-includes:
     
 ...
 
+## Things to remember before starting (tips) ##
+
+* Read and understand the experimental design/methods **carefully**
+
+* Read and understand the tables/figures **carefully**
+
+* Often there are hints in the methods
+
+* **Everything** included is intentional
+
+* Try to understand the concept under the studies
+
 ## Study 1 ##
 
 Six week old rats were fed standard chow for 7 days and then,
@@ -27,6 +39,13 @@ and lactase activity.
 \centering
 \includegraphics[width=\textwidth, page=1]{fig/studyDesign}
 
+## Figure 1 & 2: Study 1 ##
+
+\centering
+\includegraphics[width=0.5\textwidth]{./fig/fig1.png}
+\hfill
+\includegraphics[width=0.5\textwidth]{./fig/fig2.png}
+
 ## Study 2 ##
 
 Six week old rats were fed either the LCT diet, the MCT diet, or a
@@ -42,13 +61,6 @@ and mRNA levels were also measured.
 \centering
 \includegraphics[width=\textwidth, page=2]{fig/studyDesign}
 
-## Figure 1 & 2: Study 1 ##
-
-\centering
-\includegraphics[width=0.5\textwidth]{./fig/fig1.png}
-\hfill
-\includegraphics[width=0.5\textwidth]{./fig/fig2.png}
-
 ## Figure 3: Study 2 ##
 
 \centering
@@ -60,7 +72,7 @@ and mRNA levels were also measured.
 Variable Measured         LCT                 MCT                 HS
 ------------------------- ------------------- ------------------- ------------------
 Lactase Activity          $0.45\pm 0.04^{a}$  $0.64\pm 0.05^{b}$  $1.49\pm 0.08^{c}$
-($\mu$ mol/hr/mg protein) 
+($\mu$mol/hr/mg protein) 
 
 Relative abundance of     $54\pm 3^{a}$       $55\pm 2^{a}$       $100^{b}$
 lactase mRNA (\%)
@@ -81,6 +93,13 @@ of jejunal lactase mRNA (fig 1) and lactase activity (fig 2) compared
 to the other three groups.  All other groups were not significantly
 different from each other.
 
+\pause
+
+Or shorthand:
+
+* Lactase mRNA (fig. 1) $\rightarrow$ LCT = MCT = $\alpha$-MG < Sucrose
+* Lactase activity (fig. 2) $\rightarrow$ LCT = MCT = $\alpha$-MG < Sucrose
+
 ## Question 1b ##
 
 Q: Describe the effects of the diets in study 2 on lactase rate of
@@ -88,13 +107,20 @@ synthesis, activity, and mRNA levels (3/20).
 
 \pause
 
-E.g. A:  Rats on a HS diet had a significantly greater rate of lactase
+E.g. A: Rats on a HS diet had signif. greater rate of lactase
 synthesis (Figure 3), had greater lactase activity and greater
-relative abundance of lactase mRNA (Both table 1) compared to the other
-groups.  Both lipid groups had similar lactase synthesis (fig 3) and
-abundance of mRNA (table 1).  The MCT group had a signficantly greater
-lactase activity than the LCT group, but less than the HS group (table
-1).
+relative abundance of lactase mRNA (Table 1) vs the other groups.
+Both lipid groups had similar lactase synthesis (fig 3) and abundance
+of mRNA (table 1).  The MCT group had a signficantly greater lactase
+activity than LCT group, but less than HS group (table 1).
+
+\pause
+
+Or shorthand:
+
+* Lactase synthesis (fig. 3) $\rightarrow$ LCT = MCT < HS
+* Lactase activity (tab. 1) $\rightarrow$ LCT < MCT < Sucrose
+* % lactase mRNA (tab. 1) $\rightarrow$ LCT = MCT < Sucrose
 
 ## Question 2 ##
 
@@ -140,3 +166,14 @@ mediating the lactase effect.  Chronic exposure to MCT diets stimulate
 lactase activity, but not acute exposure, but does not stimulate mRNA
 expression or enzyme production.  Therefore, MCT effects lactase activity
 post-translationally
+
+## Final tips and comments ##
+
+* Sometimes its ok to **not** have an explanation without further data
+  (eg. MCT and lactase activity)
+    * Science and research is often like that --- **describe** the
+      finding, but you don't need to **explain** it for the
+      assignments and exams
+
+* Keep things simple --- simplicity is better for you and for us who
+  mark the assignment/exams
