@@ -26,21 +26,27 @@ header-includes:
 
 ## Tips, con't ##
 
-* Keep it neat
+* Keep it neat!
 
-* Don't include p-values, just direction and whether significant or
-  not
+* Don't include p-values, just direction of effect
+    * Optionally, include whether it is significant or not
 
 * Don't need detailed knowledge of mechanisms, assignment/exam is meant to
   be generally self-contained
       * BUT! You still need to know how to think about mechanisms!
 
-* Provide concrete answers, and justification
+* Tables/figures, read legend first as it will contain important info
 
-* Marks aren't always based on number of bullet points
+## Tips, con't ##
 
-* Can use short-hand in midterm/final *only* (e.g. for greater use ">",
-  for increase use "$\uparrow$", etc.)
+* Provide concrete answers and justification
+
+* Marks are **not** based on number of bullet points
+
+* Can use short-hand (e.g. for greater use ">", for increase use
+  "$\uparrow$", etc.)
+
+* "No change" is just as important as "change"
 
 * **Everything included is intentional**
 
@@ -50,14 +56,21 @@ header-includes:
 
 * If animal studies, effect assumed to be same in humans
 
-* No change is just as important as change
-
-* Tables/figures, read legend first as it will contain important info
-
-* Difference between increase/decrease and greater/lesser
-
 * When referencing data from a study, indicate where it came from
   (e.g. "X was greater than Y (Figure 1)", etc.)
+
+* We mark on a question-by-question basis (not
+  assignment-by-assignment), so repeating what you wrote from previous
+  questions is **highly** encouraged, if not necessary for full marks!
+
+## Tips, con't ##
+
+* Difference between increase/decrease and greater/lesser
+    * Increase or decrease can only be stated when the experiment is
+      over time and the comparison group is at time zero (baseline)
+    * Greater or lesser can only be stated when the experiment does
+      **not** have a comparison group at time zero (baseline) and does
+      compare to other groups
 
 * In final discussion questions that ask about interpreting data from
   multiple studies in the assignment, you can say "... in Study 1,
