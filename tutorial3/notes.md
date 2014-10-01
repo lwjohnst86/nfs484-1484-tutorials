@@ -60,3 +60,23 @@ abstract: |
 * Get feedback from the three students (positive + improvement)
 
 # Thoughts on how tutorial went #
+
+This tutorial didn't go nearly as well as I had hoped. I would say the
+biggest/hardest part was the length of the practice set. It was 3
+studies long. I had wanted to do more talking/discussing at the end,
+but there wasn't enough time. I also had wanted to use the VUE program
+to sorta draw out what is going on, but VUE doesn't do want I had in
+mind. So it was kinda a failure there. Plus the tips slides took up
+some time there.
+
+Some suggestions for next tutorial were:
+
+> "Everyone do the describe type questions, so everyone is prepared"
+
+> "Do more discussion as a group"
+
+> "Describe how I would go about answering the questions/doing the
+> assignment"
+
+So, for next tutorial, go over the assignment as a group, with me
+detailing how I would do it.
