@@ -1,6 +1,24 @@
-% Practice Assignment
-% CVD and Lipoproteins
-% Tutorial 4 <!--"pandoc slides-tut5.md -t beamer -o slides-tut5.pdf"-->
+---
+title: Practice Assignment
+date: Tutorial 5
+classoption: xcolor=dvipsnames
+output:
+    beamer_presentation:
+        slide_level: 1
+header-includes:
+    - \input{../opt/options.tex}
+    
+---
+
+# Tips: How to read correlations
+
+The $r$ number gives info on how related the two values are, while the
+plus or minus indicate direction.  $P$-value determines significance.
+
+Smaller the $r$, the greater the dispersion of the data.  Generally
+only need to know direction and significance.
+
+\includegraphics[width=\textwidth]{images/correlation}
 
 # Study
 
@@ -120,16 +138,6 @@ rats and SCFA concentrations in rats fed sucrose and starch-rich diets
 for 105d (Table 3). (5)
 
 \includegraphics[width=\textwidth]{images/table3}
-
-# How to read correlations
-
-The $r$ number gives info on how related the two values are, while the
-plus or minus indicate direction.  $P$-value determines significance.
-
-Smaller the $r$, the greater the dispersion of the data.  Generally
-only need to know direction and significance.
-
-\includegraphics[width=\textwidth]{images/correlation}
 
 # Q4
 
