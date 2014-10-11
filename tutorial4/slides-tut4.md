@@ -1,6 +1,14 @@
-% Practice Assignment
-% CVD and Lipoproteins
-% Tutorial 4 <!--"pandoc slides-tut4.md -t beamer -o slides-tut4.pdf"-->
+---
+title: Practice Assignment
+date: Tutorial 4
+classoption: xcolor=dvipsnames
+output:
+    beamer_presentation:
+        slide_level: 2
+header-includes:
+    - \input{../opt/options.tex}
+    
+---
 
 # Background:
 
@@ -340,7 +348,7 @@ diet?
   clearance of lipids continues.  Ok, now how about PLTP in diet
   change?
 
-\pause
+# Question 8, con't
 
 * With $\uparrow$ PLTP activity, diet change how no effect on lesion
   size, > VLDL/LDL compared to baseline, $\downarrow$ HDL (Study 2),
