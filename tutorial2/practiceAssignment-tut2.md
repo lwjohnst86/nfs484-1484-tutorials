@@ -1,6 +1,6 @@
 ---
-title: Practice Assignment -- Tutorial 2
-date: 2014-09-23
+title: Practice Assignment
+date: Tutorial 2
 classoption: xcolor=dvipsnames
 output:
     beamer_presentation:

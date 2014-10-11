@@ -13,7 +13,7 @@ abstract: |
 
 ...
 
-# Goals + objectives for second tutorial #
+# Goals + objectives for third tutorial #
   
 * Get to know three students
 * Remind them about the grades, that you still need to try (you don't
