@@ -1,6 +1,6 @@
 ---
 title: Tips on completing assignments and tests
-date: 2014-09-16
+date: 
 classoption: xcolor=dvipsnames
 output:
     beamer_presentation:
@@ -32,8 +32,10 @@ header-includes:
     * Optionally, include whether it is significant or not
 
 * Don't need detailed knowledge of mechanisms, assignment/exam is meant to
-  be generally self-contained
+  be generally/fairly self-contained
       * BUT! You still need to know how to think about mechanisms!
+      * PLUS! We expect a certain level of knowledge given this is a
+        fourth/graduate level course.
 
 * Tables/figures, read legend first as it will contain important info
 
@@ -52,7 +54,7 @@ header-includes:
 
 ## Tips, con't ##
 
-* Methods are assumed to be the best for that situation
+* Laboratory methods are assumed to be the best for that situation
 
 * If animal studies, effect assumed to be same in humans
 
