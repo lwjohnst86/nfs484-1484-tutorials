@@ -9,12 +9,12 @@ fontfamily: "DejaVu Serif"
 papersize: letterpaper  
 ...  
 
-# Goals + objectives for fourth tutorial #
+# Goals + objectives for fifth tutorial #
   
 * Get to know three students
-    * 
-    * 
-    * 
+    * Which would you more likely choose: a house or a condo?
+    * What is your dream vacation?
+    * Sushi or italian?
 * Give out ticket out the door; need to complete it to leave.
     * Helps us (me) to get better, find out what works, what doesn't
       work.
@@ -27,9 +27,9 @@ papersize: letterpaper
           each other, enough to hopefully be able to work with anyone
           in this room.
         - I will be forming the groups for the final assignment
-          (depending on attendance)... It will be random (using
-          cards [^cards]).  This is how it is often like in the "real" world so
-          you have to learn to work without each other's strengths and
+          (depending on attendance)... It will be random (using cards
+          [^cards]).  This is how it is often like in the "real" world
+          so you have to learn to work with each other's strengths and
           weaknesses, learning to delegate tasks.
         - The groups will be approximately the same size as how we do
           it in the tutorial... One MSc to 3 or 4 MPH students.  To
@@ -62,3 +62,16 @@ papersize: letterpaper
 
 # Thoughts on how tutorial went #
 
+I thought it went well, splitting into groups and then going over the
+questions as a class.  However...
+
+* I noticed that the grad students focus a lot on how crappy the
+  methods are, how the figures and tables don't make sense, how the
+  methods can be confusing and not always clear.
+* It's really important that there is a background and that the
+  figs/methods/tables are logical and make sense
+* I'm not sure, but the MPH students seem to be struggling with the
+  practice sets. But! Its hard to determine as there are only 4 MSc
+  students.
+
+I handed out the ticket out the door for feedback.
