@@ -1,6 +1,14 @@
-% Tips and advice
-% Exam formats
-% Tutorial 8 <!--"pandoc slidesExamTips.md -t beamer -o slidesExamTips.pdf"-->
+---
+title: Tips and advice for exam formats
+date: Tutorial 8
+classoption: xcolor=dvipsnames
+output:
+    beamer_presentation:
+        slide_level: 1
+header-includes:
+    - \input{../opt/options.tex}
+    
+---
 
 # Tips --- Before the exam
 

@@ -1,6 +1,14 @@
-% Practice Midterm
-% 2009
-% Tutorial 8 <!--"pandoc practiceMidterm.md -t beamer -o practiceMidterm.pdf"-->
+---
+title: Practice Midterm --- 2009
+date: Tutorial 8
+classoption: xcolor=dvipsnames
+output:
+    beamer_presentation:
+        slide_level: 1
+header-includes:
+    - \input{../opt/options.tex}
+    
+---
 
 # Background
 
