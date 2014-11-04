@@ -12,9 +12,14 @@ papersize: letterpaper
 # Goals + objectives for eighth tutorial #
   
 * Get to know six students
-    * 
-    * 
-    * 
+    * If you could choose any animal as a pet, which would you choose?
+    * Which of the holidays is your favorite?
+    * Do you have any brothers or sisters? Are you the oldest? Have
+      you ever wanted some (if not)?
+    * Do you have a favorite book or book series?
+    * If you could have any superpower, what would you have?
+    * Do you play video games? Board games? Card games? If so, which
+      game do you like best?
 * Try to use their names in the class if they ask a question
 * Split their groups before doing tips slide
 * Go over tips slide
