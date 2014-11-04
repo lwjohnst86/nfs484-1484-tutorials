@@ -45,3 +45,23 @@ papersize: letterpaper
       etc.
 
 # Thoughts on how tutorial went #
+
+This workshop also went really well. I added a shorter time limit to
+each question (2 min), with an actual timer (on my cell), and the
+students seemed to really like that.
+
+Some good things the students said:
+
+> "Really like the shorter time limit for working together on the
+> questions" (3 students)
+
+Some improvements:
+
+> "Go faster through the describe questions"
+
+> "You as the TA go through the describe questions"
+
+> "Just show the key points of the introduction and study
+> descriptions, don't go thro it fully"
+
+> "Bring treats!" (2 students)
