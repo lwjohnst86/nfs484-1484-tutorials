@@ -15,7 +15,8 @@ papersize: letterpaper
 
 # Acivities #
 
-
+* Just go thro what mechanism questions would be like
+* Hand out evaluation sheets
 
 # Thoughts on how tutorial went #
 
